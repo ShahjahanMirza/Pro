@@ -1,0 +1,31 @@
+Text Summarization
+Article Recommendation System
+Adding Labels to a Dataset for Sentiment Analysis
+News Classification
+WhatsApp Chats Sentiment Analysis
+WhatsApp Chats Analysis
+Create a Chatbot with Python
+Language Detection
+Topic Modelling
+Named Entity Recognition
+WhatsApp Group Chat Analysis
+Translate Languages Using Python
+Text Summarization
+Keyword Extraction
+Sarcasm Detection
+Amazon Product Reviews Sentiment Analysis
+Hotel Reviews Sentiment Analysis
+Google Play Store Sentiment Analysis
+Amazon Alexa Reviews Sentiment Analysis
+Language Translation Model
+Natural Language Processing on WhatsApp Chats
+Fake News Detection Model
+Text Generation using RNNs
+Text Summarization using Transformers
+Question Answering System
+Sentiment Analysis on Product Reviews
+Named Entity Recognition for Resumes
+Paraphrase Generation
+Next Word Prediction
+Text Extraction from Images
+Messages and EMail summarizer

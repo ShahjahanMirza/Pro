@@ -1,0 +1,17 @@
+Article Recommendation System
+Amazon Recommendation System
+Ted-Talks Recommendation System
+Amazon Recommendation System
+Spotify Recommendation System
+Hotel Recommendation System
+Book Recommendation System
+Netflix Recommendation System
+Fashion Recommendation System
+Movie Recommendation System
+YouTube Video Recommender
+Research Paper Recommender
+Playlist Generation
+Next Song Recommendation
+Product Recommendation Engine
+Friend Recommendation on Social Networks
+Personalized News Recommender

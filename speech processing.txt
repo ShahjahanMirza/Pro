@@ -1,0 +1,5 @@
+Speech Recognition
+Speech Synthesis
+Speaker Identification
+Text to Speech
+Speech to Text

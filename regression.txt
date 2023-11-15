@@ -1,0 +1,30 @@
+Car Price Prediction
+Stock Price Prediction
+Cryptocurrency Price Prediction
+Netflix Stock Price Prediction
+Electricity Price Prediction
+Product Demand Prediction
+Apple Stock Price Prediction
+Worldwide Billionaires Analysis
+Car Price Prediction Model
+Microsoft Stock Price Prediction
+Tesla Stock Price Prediction Model
+Financial Budget Analysis
+House Price Prediction
+Gold Price Prediction
+Energy Consumption Prediction
+House Price Prediction
+Gold Price Prediction
+Highest-Paid Athletes Analysis
+Predict Fuel Efficiency
+Bitcoin Price Prediction
+Stock Price Prediction with Machine Learning
+Machine Learning Project — Stock Price Prediction with Machine Learning
+Predicting Housing Prices
+Predicting Employee Attrition
+Estimating Healthcare Costs
+Forecasting Product Demand
+Predicting Customer Lifetime Value
+Estimating Insurance Claim Amounts
+Predicting Restaurant Revenue
+Predicting Student Test Scores

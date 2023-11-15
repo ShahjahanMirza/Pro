@@ -1,0 +1,14 @@
+Image Captioning
+Image Feature Extraction
+Image Filtering
+Image Recognition
+Image Segmentation
+Object Detection
+Image Colorization
+Image Super Resolution
+Facial Keypoint Detection
+Object Tracking
+Image Caption Generation
+Image Inpainting
+Image Style Transfer
+Document Scanner

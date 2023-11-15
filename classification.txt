@@ -1,0 +1,40 @@
+Customer Segmentation
+Breast Cancer Detection
+Income Classification
+Iris Flower Classification
+News Classification
+Spam Detection
+Comparison of Classification Algorithms
+Insurance Prediction
+Video Game Sales Prediction Model
+Student Grades Prediction Model
+Language Detection
+Adding Labels to a Dataset for Sentiment Analysis
+Omicron Variant Sentiment Analysis
+Squid Game Sentiment Analysis
+Health Insurance Premium Prediction
+Number of Orders Prediction
+Covid-19 Vaccine Analysis
+Classification with Neural Networks
+Stress Detection
+Pfizer Vaccine Sentiment Analysis
+Social Media Ads Classification
+Sales Prediction
+Profit Prediction Model
+Mobile Price Classification
+Bankruptcy Prediction Model
+Instagram Algorithm
+Human Resource Analysis
+Outlier Detection
+Plastic Users Analysis
+Chatbot with Machine Learning
+Income Classification
+Customer Churn Prediction
+Resume Screening
+Online Shopping Intention Analysis
+Gender Classification Model
+Flower Recognition
+Employee Attrition Prediction
+Market Basket Analysis using Apriori Algorithm
+Hand Gesture Recognition
+Face mask Detection
